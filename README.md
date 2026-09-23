@@ -46,7 +46,7 @@ it was used in.
   - `/signup` — Sign up form (name, email, password, confirm password)
 - No backend or database is used in this task — login/sign up are simulated.
 
-**Live deployment:** _add your Vercel link here_
+**Live deployment:** _https://git-nextjs-assignment.vercel.app/_
 
 ---
 
